@@ -1,9 +1,7 @@
 ## Hola bienvenido ##
 
-<!--
-**michaelrodriguezcr7/michaelrodriguezcr7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![image](https://github.com/user-attachments/assets/3e71d4ec-a60c-445e-ad51-0a7c2c428bf5)
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
